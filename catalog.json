@@ -1,0 +1,124 @@
+{
+  "FilePath": "path",
+  "ItemTemplates": [
+    {
+      "Name": "name",
+      "Path": [
+        "name"
+      ],
+      "Group": "None",
+      "KeyGesture": {
+        "Key": 0,
+        "Modifiers": 2
+      },
+      "Items": [
+        {
+          "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
+          "IsWaveformEnabled": false,
+          "FilePath": "path",
+          "AudioTrackIndex": 0,
+          "Volume": {
+            "Values": [
+              {
+                "Value": 50.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Pan": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "PlaybackRate": 100.0,
+          "ContentOffset": "00:00:00",
+          "IsLooped": false,
+          "EchoIsEnabled": false,
+          "EchoInterval": 0.1,
+          "EchoAttenuation": 40.0,
+          "AudioEffects": [],
+          "X": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Y": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Z": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Opacity": {
+            "Values": [
+              {
+                "Value": 100.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Zoom": {
+            "Values": [
+              {
+                "Value": 100.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Rotation": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "FadeIn": 0.0,
+          "FadeOut": 0.0,
+          "Blend": "Normal",
+          "IsInverted": false,
+          "IsClippingWithObjectAbove": false,
+          "IsAlwaysOnTop": false,
+          "IsZOrderEnabled": false,
+          "VideoEffects": [],
+          "Group": 0,
+          "Frame": 0,
+          "Layer": 0,
+          "KeyFrames": {
+            "Frames": [],
+            "Count": 0
+          },
+          "Length": 1,
+          "Remark": "",
+          "IsLocked": false,
+          "IsHidden": false
+        }
+      ]
+    }
+  ],
+  "VideoEffectTemplates": [],
+  "AudioEffectTemplates": []
+}
