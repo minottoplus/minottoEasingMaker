@@ -1,5 +1,6 @@
 # minottoEasingMaker
 YMMで動画ファイルの再生速度にイージングをかける外部ソフト
+適当注意！！大量のバグがあります
 ## Preview
 ![動画情報入力_b1](https://github.com/user-attachments/assets/6c62308f-519b-4928-be45-950593c073a5)
 
